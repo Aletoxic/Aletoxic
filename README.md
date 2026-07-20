@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">Meu nome é Alexandre, eu sou um universitário de engenharia de Software da UniEvangélica, meu intuito é meçhorar minhas habilidades na formatação de códigos.</p>
+<p align="left">Meu nome é Alexandre, eu sou um universitário de engenharia de Software da UniEvangélica, meu intuito é melhorar minhas habilidades na formatação de códigos.</p>
 
 ###
 
-<p align="left">Em relação aos meus interesses, eu gosto de jogar jogos de console (principalmente Soulslike), gosto de assistir filmes e séries e aprecio uma boa conversa.</p>
+<p align="left">Em relação ao meu conhecimento técnico, eu tenho utilizado linguagem em C e estou estudando linnguagem em Node.js.
 
 ###
 
